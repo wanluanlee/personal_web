@@ -1,0 +1,43 @@
+.number_game_title
+{
+  text-align: center;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 30px;
+
+}
+
+.number_game_text
+{
+  margin-top: 25px;
+  text-align: center;
+  line-height: 30px;
+}
+
+.middle_container
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.descprition
+{
+  text-align: center;
+  padding-top: 10px;
+  font-family: 'Shadows Into Light Two', cursive;
+}
+
+.api_images
+{
+  height: 500px;
+  width: 650px;
+  border-radius: 15px;
+}
+
+.color-box
+{
+  background-color: #FEE2D9;
+  margin-bottom: 50px;
+}
