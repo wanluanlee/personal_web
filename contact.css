@@ -16,3 +16,11 @@
   width: 400px;
   padding: 25px;
 }
+
+.email
+{
+  text-align: center;
+  font-family:'Shadows Into Light Two', cursive;
+  margin-bottom: 50px;
+  font-size: 30px;
+}
