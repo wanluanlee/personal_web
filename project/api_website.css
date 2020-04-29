@@ -41,3 +41,11 @@
   background-color: #FEE2D9;
   margin-bottom: 50px;
 }
+
+.link_box
+{
+  margin-left: 15px;
+  align-self: center;
+  background-color: #DCDCDC;
+  width: 80px;
+}
